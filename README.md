@@ -2,9 +2,13 @@
 This app is used to register user, add Slots of a Parking lot and also book Slots of
 a Parking-lot.
 
-# To Run the App
+### Install Project Dependencies
 
     npm i
+
+# To Run the App
+
+    npm start
 
 # Dependencies
     
